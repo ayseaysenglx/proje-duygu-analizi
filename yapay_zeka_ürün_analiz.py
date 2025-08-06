@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-gemini_key="APİ ANAHTARINI GİRİN"
+gemini_key="APİ ANAHTARINI GİRİN" #Kendi api nahtraınızı girin
 
 import google.generativeai as genai
 #Analiz etmek istediğimiz ürünü yazıyoruz
-aratilan_urun="U.s. Polo Assn. Kadın Mavi Elbise Örme 50305753-vr036 Mavi"
+aratilan_urun="U.s. Polo Assn. Kadın Mavi Elbise Örme 50305753-vr036 Mavi" #Buraya Aratmak istediğiniz ismi girin ve promptu çalıştırın
 
 genai.configure(api_key=gemini_key)
 
