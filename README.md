@@ -6,4 +6,6 @@ Girilen bir ürün isminin  yapay zeka ile özelliklerini çıkarıp ürün aram
 yorumların güvenilirlik skorunu analiz ederek  adil bir ürün puanlaması yapmaktır.
 
 **Gerekli kütüphaneler requirements.txt dosyasında yazılıdır**
-**hazır yaqpılmış ürün analizlerinin dosyasını kodu çalıştırdığınız dizine eklemeyi unutmayın**
+
+
+**hazır yapılmış ürün analizlerinin dosyasını kodu çalıştırdığınız dizine eklemeyi unutmayın**
